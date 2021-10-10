@@ -1,0 +1,10 @@
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\bin\Debug\car race game.exe.config
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\bin\Debug\car race game.exe
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\bin\Debug\car race game.pdb
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car race game.csprojAssemblyReference.cache
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car_race_game.Form1.resources
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car_race_game.Properties.Resources.resources
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car race game.csproj.GenerateResource.cache
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car race game.csproj.CoreCompileInputs.cache
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car race game.exe
+C:\Users\ajaqu\Desktop\project with c#\car race game\car race game\car race game\obj\Debug\car race game.pdb
